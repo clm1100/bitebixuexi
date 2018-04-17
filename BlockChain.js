@@ -1,4 +1,4 @@
-class Blockchain{
+module.expots =  class Blockchain{
     constructor() {
       this.chain = [this.createGenesisBlock()];
     }
